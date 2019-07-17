@@ -1,8 +1,8 @@
-version: 2
-  jobs:
-    build:
-      docker:
-        - image: circleci/ruby:2.4.1
-      steps:
-        - checkout
-        - run: echo "A first hello"
+version: 2.1
+  orbs:
+    welcome: circle/welcome-orb00.3.1
+    
+  workflows:
+    Welcome:
+      jobs:
+        - welcome/run
