@@ -1,6 +1,6 @@
 export_fig
 ==========
-[![](https://img.shields.io/static/v1?label=MATLAB&message=File%20Exchange&color=0076a8&?style=flat&labelColor=d78825&logo=mathworks)](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig) [![](https://img.shields.io/static/v1?label=&message=2k%20Downloads/Month&color=0076a8&?style=flat&labelColor=d78825&logo=mathworks)](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
+[![](https://img.shields.io/static/v1?label=MATLAB&message=File%20Exchange&color=0076a8&?style=flat&labelColor=d78825&logo=mathworks)](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig) [![](https://img.shields.io/static/v1?label=Downloads&message=2K/Month&color=0076a8&?style=flat&labelColor=d78825&logo=mathworks)](https://www.mathworks.com/matlabcentral/fileexchange/23629-export_fig)
 
 A toolbox for exporting figures from MATLAB to standard image and document formats nicely.
 
